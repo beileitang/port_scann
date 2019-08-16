@@ -1,0 +1,4 @@
+INFO:root:Beilei's logging info message
+WARNING:root:Beilei's logging warning message
+ERROR:root:Beilei's logging error message
+CRITICAL:root:Beilei's logging critical message
